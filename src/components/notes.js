@@ -33,56 +33,6 @@ const notes = [
         key: 4,
         noteTitle: "Title 4",
         noteData: "Note Content 4"
-    },
-    {
-        key: 4,
-        noteTitle: "Title 4",
-        noteData: "Note Content 4"
-    },
-    {
-        key: 4,
-        noteTitle: "Title 4",
-        noteData: "Note Content 4"
-    },
-    {
-        key: 4,
-        noteTitle: "Title 4",
-        noteData: "Note Content 4"
-    },
-    {
-        key: 4,
-        noteTitle: "Title 4",
-        noteData: "Note Content 4"
-    },
-    {
-        key: 4,
-        noteTitle: "Title 4",
-        noteData: "Note Content 4"
-    },
-    {
-        key: 4,
-        noteTitle: "Title 4",
-        noteData: "Note Content 4"
-    },
-    {
-        key: 4,
-        noteTitle: "Title 4",
-        noteData: "Note Content 4"
-    },
-    {
-        key: 4,
-        noteTitle: "Title 4",
-        noteData: "Note Content 4"
-    },
-    {
-        key: 4,
-        noteTitle: "Title 4",
-        noteData: "Note Content 4"
-    },
-    {
-        key: 4,
-        noteTitle: "Title 4",
-        noteData: "Note Content 4"
     }
 ]; 
 
