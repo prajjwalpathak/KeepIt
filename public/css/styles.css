@@ -31,9 +31,41 @@ body {
   box-shadow: 1px 2px 5px gray;
 }
 
+.addDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5rem;
+}
+
+.addTitle {
+  border:rgb(189, 189, 189) 2px solid;
+  resize: none;
+  width: 30rem;
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  height: 3rem;
+  border-radius: 5px;
+  font-family: monospace;
+  margin: 1rem 0 0 0;
+}
+
+.textArea {
+  border:rgb(189, 189, 189) 2px solid;
+  resize: none;
+  width: 30rem;
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  height: 3rem;
+  border-radius: 5px;
+  font-family: monospace;
+  margin: 1rem 0 0 0;
+}
+
 .cards {
   display: flex;
-  padding: 10rem 1rem;
+  padding: 0 1rem 10rem 1rem;
   flex-wrap: wrap;
 }
 
