@@ -1,12 +1,16 @@
 import React from "react";
 
-function Note(props) {
-  return (
-    <div className="note">
-      <h1 className="noteTitle">{props.noteTitle}</h1>
-      <p className="noteData">{props.noteData}</p>
-    </div>
-  );
-}
+const Note = [
+    {
+        key: 1,
+        noteTitle: "Demo Title",
+        noteData: "Demo Note Content"
+    },
+    {
+        key: 1,
+        noteTitle: "Demo Title",
+        noteData: "Demo Note Content"
+    }
+];
 
 export default Note;
