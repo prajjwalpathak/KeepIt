@@ -5,6 +5,7 @@ const Add = ()=> {
         <div className="addDiv">
             <input className="addTitle" type="text" placeholder="Enter the title"></input>
             <textarea className="textArea" rows="1" placeholder="Create a note ..."></textarea>
+            <button type="submit" className="addButton">ADD</button>
         </div>
     );
 }
