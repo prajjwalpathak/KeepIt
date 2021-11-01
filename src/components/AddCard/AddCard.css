@@ -1,0 +1,41 @@
+.addCardDiv form{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5rem;
+}
+
+.addTitle {
+  border: rgb(189, 189, 189) 2px solid;
+  resize: none;
+  width: 30rem;
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  height: 3rem;
+  border-radius: 5px;
+  font-family: monospace;
+  margin: 1rem 0 0 0;
+}
+
+.addNote {
+  border: rgb(189, 189, 189) 2px solid;
+  resize: none;
+  width: 30rem;
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  height: 3rem;
+  border-radius: 5px;
+  font-family: monospace;
+  margin: 1rem 0 0 0;
+}
+
+.addButton {
+  width: 6rem;
+  height: 3rem;
+  font-size: 1.5rem;
+  margin: 1rem;
+  background-color: gold;
+  border-radius: 5px;
+  font-family: monospace;
+}

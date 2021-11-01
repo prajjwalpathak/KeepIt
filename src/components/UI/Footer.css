@@ -1,0 +1,14 @@
+.footer {
+  position: absolute;
+  bottom: 0;
+  min-width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer p {
+  padding: 1rem;
+  color: rgb(110, 110, 110);
+  font-family: sans-serif;
+}
