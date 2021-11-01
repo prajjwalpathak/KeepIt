@@ -5,6 +5,7 @@ const Notes = () => {
     return (
         <div className="notes">
             <Note />
+            <Note />
         </div>
     );
 };

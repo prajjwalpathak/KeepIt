@@ -11,6 +11,12 @@
   margin: 1rem;
 }
 
+.noteTopDiv {
+  width: 19rem;
+  display: flex;
+  justify-content: space-between;
+}
+
 .noteTitle {
   font-size: 2.5rem;
   padding: 0.5rem;
@@ -19,4 +25,11 @@
 .noteData {
   font-size: 1.5rem;
   padding: 0.5rem;
+}
+
+.noteDeleteButton {
+  background-color: rgb(255, 247, 200);
+  border-radius: 5px;
+  border-color: white;
+  height: 2rem;
 }
